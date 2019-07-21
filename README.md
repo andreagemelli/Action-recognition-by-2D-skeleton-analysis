@@ -2,9 +2,7 @@
 
 ### Abstract
 
-This is an implementation of the  techniques  presented  in  
-["Co-occurrence Feature Learning from Skeleton Data for Action Recognition"](https://arxiv.org/abs/1804.06055)  
-to recognize two-dimensional skeleton using newer technologies.
+This is an implementation of the  techniques  presented  in ["Co-occurrence Feature Learning from Skeleton Data for Action Recognition"](https://arxiv.org/abs/1804.06055) to recognize two-dimensional skeleton using newer technologies.
 We worked on the [KTHDataset](http://www.nada.kth.se/cvap/actions/) a  collection  of videos about people performing
 six different actions in different scenarios, extracting skeletons thanks to [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) module.
 

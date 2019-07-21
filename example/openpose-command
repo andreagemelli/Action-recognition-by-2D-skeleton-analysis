@@ -1,0 +1,1 @@
+./build/examples/openpose/openpose.bin --model_pose MPI --video /home/wolmer/Desktop/IVA/Cooccurence-Feature-learning/example/handwaving/handwaving.mp4  --write_json /home/wolmer/Desktop/IVA/Cooccurence-Feature-learning/example/handwaving/jsons --write_video /home/wolmer/Desktop/IVA/Cooccurence-Feature-learning/example/handwaving/openpose.avi --display 0 
